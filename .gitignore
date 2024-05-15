@@ -1,0 +1,17 @@
+# Ignore everything
+*
+
+# Don't ignore gitignore itself
+!.gitignore
+
+# Except for directories
+!*/
+
+# Allow nvim directory
+!nvim/
+!nvim/*
+
+# Allow alacritty directory
+!alacritty/
+!alacritty/*
+
