@@ -4,6 +4,8 @@
 # Don't ignore gitignore itself
 !.gitignore
 
+# Don't ignore README.md
+!README.md
 # Except for directories
 !*/
 
@@ -16,3 +18,7 @@
 !alacritty/
 !alacritty/*
 
+# Allow img directory
+!img/
+!img/*
+!img/**/*
