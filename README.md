@@ -19,10 +19,6 @@ git clone https://github.com/shubhindia/dotconfig.git
 
 ![nvim-preview](img/nvim-preview.img)
 
-- tmux
-
-![tmux-preview](img/tmux-preview.img)
-
 - code-editor
 
 ![code-editor](img/code-editor.gif)
