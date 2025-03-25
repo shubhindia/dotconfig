@@ -18,6 +18,10 @@
 !alacritty/
 !alacritty/*
 
+# Allow kitty
+!kitty/
+!kitty/*
+
 # Allow img directory
 !img/
 !img/*
