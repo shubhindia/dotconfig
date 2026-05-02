@@ -12,4 +12,4 @@ startup_mode = "Maximized"
 
 [font]
 normal.family = "MesloLGS Nerd Font Mono"
-size = 17
+size = 18
